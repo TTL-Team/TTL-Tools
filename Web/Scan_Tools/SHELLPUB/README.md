@@ -34,8 +34,8 @@
 
 # 下载
 
-| Windows     | [下载](https://github.com/TTL-Team/TTL-Tools/blob/main/Web/Scan_Tools/SHELLPUB/HmSetup.zip) |
+| Windows     | [下载](https://github.com/TTL-Team/TTL-Tools/raw/main/Web/Scan_Tools/SHELLPUB/HmSetup.zip) |
 | ----------- | ------------------------------------------------------------ |
-| Linux AMD64 | [下载](https://github.com/TTL-Team/TTL-Tools/blob/main/Web/Scan_Tools/SHELLPUB/hm-linux-amd64.tgz) |
-| Linux 386   | [下载](https://github.com/TTL-Team/TTL-Tools/blob/main/Web/Scan_Tools/SHELLPUB/hm-linux-386.tgz) |
+| Linux AMD64 | [下载](https://github.com/TTL-Team/TTL-Tools/raw/main/Web/Scan_Tools/SHELLPUB/hm-linux-amd64.tgz) |
+| Linux 386   | [下载](https://github.com/TTL-Team/TTL-Tools/raw/main/Web/Scan_Tools/SHELLPUB/hm-linux-386.tgz) |
 
