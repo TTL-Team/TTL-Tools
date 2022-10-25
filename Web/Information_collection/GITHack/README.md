@@ -2,6 +2,8 @@
 
 源地址：https://github.com/WangYihang/GitHacker
 
+更新于2022年10月26日
+
 ## Desciption
 
 This is a multiple threads tool to exploit the `.git` folder leakage vulnerability. It is able to download the target `.git` folder almost completely. This tool also works when the `DirectoryListings` feature is disabled by brute forcing common `.git` folder files.
