@@ -1,0 +1,180 @@
+
+K8飞刀  by K8拉登哥哥@[K8搞基大队]
+
+作者博客: http://qqhack8.blog.163.com
+
+
+========================================================================================================
+K8飞刀 2014光棍专版 
+
+[+]ExpDebug           增加Banner/IP/地址位置信息 美化各项配置属性       20101110
+
+[+]DataOutput         修复不能读取配置文件长字符串的BUG                 20141107
+
+[+]DataOutput         自动保存当前脱库配置信息/重起程序后自动加载       20141106
+
+[+]DataOutput         XP不显示脱库速度/多线程脱库时不能停止的bug        20141106
+
+[+]DataOutput         注入点脱库(多线程) + 计算脱库速度                 20141104
+
+[+]EncodeDecode       多行字符串 转成 C# StringBuffer代码 开发用        20141103
+
+[+]EncodeDecode       相对路径生成 Discuz 6.x/7.x代码执行漏洞EXP        20141103
+
+========================================================================================================
+K8飞刀 20141101
+
+[+]EncodeDecode       代码多行转一行 Bat逻辑命令符转成一行与反转        20141101
+
+[+]程序界面           XP/2003 工具栏图标按钮位置调整                    20101101
+
+[+]ExpDebug           支持多国语言编码 (解决不同区域返回乱码问题)       20101031
+
+[+]ExpDebug           支持多国语言编码 (解决不同区域返回乱码问题)       20101031
+
+[+]DataOutput         Big5(HK)编码,修复脱库时HK繁体乱码的问题           20101030
+
+[+]Exploit-DB         EXP按钮右键添加发送到DataOutput模块功能           20101030
+
+[+]Exploit-DB         增加robots.txt查看按钮(大部分网站都会有的)        20101030
+
+[+]ExpDebug/Exploit   禁用掉错误提示脚本  添加Discuz 7.2 相关EXP        20141029
+
+[+]EncodeDecode       Drupal后台PHP-Chr连接字符串 GetShell代码生成      20141027
+
+[+]EncodeDecode       PHP GetShell代码 PHP-Chr连接字符串生成与反转      20141027
+
+[+]程序界面           界面直观 (工具栏/右键菜单/Tab头)添加相应图标      20141025
+
+[+]EncodeDecode       Drupal后台 (PHP Filter)模块GetShell 代码生成      20141022
+
+[+]Exploit-DB         支持导入20141022版本前数据库(提示新增EXP数量)     20141022
+
+[+]ExploitDebug       Exploit-DB模块 新增自定义 网址 附加URL 参数       20141022
+
+[+]EncodeDecode       Hex编码(GB2312\UTF8\Unicode)  Hex解码GB2312       20141019
+
+[+]EncodeDecode       SQL注入 Hex文件路径(MSSQL) Hex文件路径(Mysql)     20141018
+
+[+]EncodeDecode       界面  编辑框只留一个  加密算法全放置右键菜单      20141017
+
+[+]Exploit-DB         drupal 7.31 SQL注入漏洞 EXP (测试 7.12 7.31)      20141017
+
+[+]程序界面           国庆花一天 弄K8工具当年常用时尚透明皮肤(.Net)     20141005
+
+[+]EncodeDecode       增加数据库(Oracle MYSQL MSSQL)4种CHAR格式解密     20140925
+
+[+]EncodeDecode       所有文本框 右键菜单增加 转大小写 转全半角功能     20140920
+
+[+]WebShell           添加/修改WebShell 增加高级模式  默认简易模式      20140908
+
+[+]EncodeDecode       Delphi互转其它代码用到  赋值 := 互转 =            20140824
+
+[+]EncodeDecode       各语言代码常用 转义字符双引号  \" 互转 "          20140824
+
+[+]CheckUpdate        检测最否有最新版 提示编译日期并打开URL地址        20140818
+
+[+]DataOutput         脱库模块 SQL注入点脱库 也可用于WebFuzzing         20140814
+
+[+]Exploit-DB         修复 执行EXP  提交UserAgent只能一次的问题         20140813
+
+[+]ExploitDebug       修复浏览器模式提交UserAgent只能一次的问题         20140813
+ 
+[+]ExploitManage      添加 Zimbra LFI 0day exploit 本地包含漏洞         20140812
+
+[+]FileManage         ShellManage右键文件管理模块-PHP列目录完成         20140811
+
+[+]EncodeDecode       路径常用符号互转 /转\\  \\转/  /转\  \转/         20140811
+
+========================================================================================================
+K8飞刀 20140810
+
+[+]工具标题           增加节日提醒 (公历节日、农历节日)                 20140810
+
+[+]CmdShell           Perl Cmd WebShell    (Perl一句话木马连接)         20140807
+
+[+]CmdShell           Python Cmd WebShell  (Python一句话木马连接)       20140806
+
+[+]CmdShell           ColdFusion Cmd WebShell (CFM一句话木马连接)       20140805
+
+[+]ShellManage        合并数据库(支持导入菜刀数据库) 进行管理           20140805
+
+[+]ShellManage        修复 WebShell 添加/修改提示对象已释放Bug          20140805
+
+[+]ShellManage        添加 WebShell 判断是否已存在 不重复添加           20140805
+
+========================================================================================================
+K8飞刀 20140731
+
+[+]ExploitManage      添加Apache Struts2 S2-020 GetShell EXP            20140731
+
+[+]EncodeDecode       空格转%20 空格转/**/(Struts2漏洞用到)             20140731
+
+[+]ExploitManage      添加已存在EXP 会提示EXP对应按扭名称               20140729
+
+[+]ExploitManage      允许添加修改 EXP按钮名称较长字符串                20140729
+
+[+]EncodeDecode       XSS常用 JS Escape默认加密与全部加密               20140728
+
+[+]EncodeDecode       XSS常用 FromCharCode专用ASCII码生成               20140728
+
+[+]EncodeDecode       XSS常用 JS转义 (16进制/Unicode)字符串             20140728
+
+[+]EncodeDecode       XSS常用 HTML实体编码(10进制/16进制)               20140728
+
+========================================================================================================
+K8飞刀 20140725 
+
+[+]ExploitManage      添加18个Fckeditor 19个Joomla 0day漏洞EXP          20140725
+
+[+]ExploitManage      添加Discuz! 7.2 faq.php 注入 0day漏洞EXP          20140725
+
+[+]ExploitManage      Tipask 2.0 ajaxsearch URL编码注入漏洞EXP          20140725
+
+[+]EncodeDecode       字符串转Unicode Unicode转字符串 SHA1加密          20140725
+
+[+]EncodeDecode       SHA加密算法系列 (SHA256 SHA384 SHA512)            20140725
+
+[+]ExploitManage      右键增加导入合并其它数据库的EXP数据功能           20140721
+
+[+]EncodeDecode       Base64 支持3种编码(GB2312 UTF8 Unicode)           20140721
+
+[+]EncodeDecode       URL编码支持3种编码(GB2312 UTF8 Unicode)           20140721
+
+[+]ShellManage        右键删除增加是否删除提示,免得误删Shell            20140720
+
+[+]ExploitManage      右键EXP按钮可删除和修改当前按钮对应EXP            20140716
+
+[+]ExploitManage      动态创建按钮加载对应Payload,生成漏洞EXP           20140714
+
+[+]Get/Post提交       一键添加EXP到Web_Exploit模块数据库功能            20140711
+
+[+]Get/Post提交       None模式(只浏览网页不提交任何数据)                20140711
+
+
+========================================================================================================
+K8飞刀 20140707
+
+[+]Get/Post提交      Cookie格式不对,提交闪退的Bug                       20140707
+
+[+]EncodeDecode      任意文件 转换HEX编码(16进制)                       20140703
+
+[+]EncodeDecode      任意文件 转换CHR编码(ASC码)                        20140703
+
+[+]EncodeDecode      UDF提权 MYSQL HEX格式编码转换                      20140703
+
+[+]EncodeDecode      UDF提权 MYSQL CHR格式编码转换                      20140703
+
+[+]EncodeDecode      MOF提权 MYSQL HEX格式编码转换                      20140703
+         
+[+]EncodeDecode      MOF提权 MYSQL CHR格式编码转换                      20140703
+
+[+]Get/Post提交      伪造 HTTP Referer (请求来源)                       20140626
+
+[+]Get/Post提交      userAgent 自定义编辑                               20140608
+
+[+]Get/Post提交      userAgent修复(之前版本忘了加了)                    20140423
+
+===============================================================================================================
+
+[+]之前的 回忆过去,痛苦的相思忘不了.
