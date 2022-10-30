@@ -1,3 +1,4 @@
 Web/Comprehensive/BurpSuite/v2022.9.5/burpsuite_community_windows-x64_v2022_9_5.exe filter=lfs diff=lfs merge=lfs -text
 Web/Comprehensive/BurpSuite/v2022.9.5/burpsuite_community_linux_v2022_9_5.sh filter=lfs diff=lfs merge=lfs -text
 Web/Comprehensive/BurpSuite/v2022.9.5/burpsuite_community_macos_x64_v2022_9_5.dmg filter=lfs diff=lfs merge=lfs -text
+Other/Runtime/jdk/jdk-11.0.17_windows-x64_bin.exe filter=lfs diff=lfs merge=lfs -text
